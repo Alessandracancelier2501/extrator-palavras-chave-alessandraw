@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-destaque: #abc6ff;
+    --cor-destaque: #000000;
     --cor-gradiente-preto: linear-gradient(113deg, #aedfff 0%, #b2c0ff 44.96%, #e4aaff 100%);
 }
 
@@ -21,7 +21,7 @@ body {
     flex-direction: column;
 }
 
-.container {
+.container {1
     display: flex;
     width: 65rem;
     flex-direction: column;
